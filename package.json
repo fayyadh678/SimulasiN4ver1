@@ -1,0 +1,30 @@
+{
+  "name": "simulasi-n4-ver1",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Simulasi JLPT N4 — Version 2 (Set 2) — 70 soal latihan orisinal",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest",
+    "validate:assets": "node scripts/validate-assets.mjs"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@andresaya/edge-tts": "^1.9.1",
+    "@types/node": "^26.6.5",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "ffmpeg-static": "^5.3.0",
+    "msedge-tts": "^2.1.0",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11",
+    "vitest": "^2.1.8"
+  }
+}

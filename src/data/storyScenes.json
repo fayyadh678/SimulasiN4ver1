@@ -1,0 +1,62 @@
+[
+  {
+    "id": "S1",
+    "path": "images/stories/s1.svg",
+    "name": "ベランダに干す洗濯",
+    "panels": [
+      "Ibu rumah tangga memasukkan baju dan handuk kotor ke dalam mesin cuci, tanpa warna yang membingungkan.",
+      "Mesin cuci sedang berputar, perempuan menekan tombol start.",
+      "Perempuan mengangkat baju dan handuk bersih dari keranjang.",
+      "Perempuan menggantung baju pada tali jemuran di balkon lantai dua; pagar balkon dan pintu kaca jelas terlihat, bukan halaman atau dapur."
+    ],
+    "visualQuestion": "Perempuan menggantung pakaian di lokasi apa pada panel keempat?"
+  },
+  {
+    "id": "S2",
+    "path": "images/stories/s2.svg",
+    "name": "Menanam bunga",
+    "panels": [
+      "Anak laki-laki memegang sebuah pot dan kantong benih bunga kecil.",
+      "Anak memasukkan biji kecil ke lubang tanah di dalam pot.",
+      "Anak menyiram tanah pot dengan gembor hijau, semburan air tampak jelas.",
+      "Beberapa hari kemudian pot berisi satu bunga mekar dan anak tersenyum."
+    ],
+    "visualQuestion": "Apa tindakan anak tepat sesudah menanam biji?"
+  },
+  {
+    "id": "S3",
+    "path": "images/stories/s3.svg",
+    "name": "Menyerahkan barang tertinggal",
+    "panels": [
+      "Laki-laki melihat syal merah tertinggal di bangku peron stasiun.",
+      "Laki-laki mengambil syal merah, mengamati peron yang kosong.",
+      "Laki-laki menyerahkan syal kepada petugas di loket informasi stasiun, dengan ikon rel/kereta (bukan papan tulisan jawaban).",
+      "Petugas menyimpan syal dalam kotak barang temuan dan memberi gestur terima kasih."
+    ],
+    "visualQuestion": "Kepada siapa dan di mana syal diserahkan?"
+  },
+  {
+    "id": "S4",
+    "path": "images/stories/s4.svg",
+    "name": "Ayah menyiapkan bekal",
+    "panels": [
+      "Ayah menaruh nasi putih ke kotak makan anak.",
+      "Ayah membuat tamagoyaki kuning (telur gulung) dalam wajan.",
+      "Ayah menata nasi putih dan tamagoyaki kuning di kotak makan yang sama.",
+      "Ayah memberikan kotak bekal kepada putrinya yang memakai tas sekolah."
+    ],
+    "visualQuestion": "Dua makanan apa yang dimasukkan ayah ke kotak bekal?"
+  },
+  {
+    "id": "S5",
+    "path": "images/stories/s5.svg",
+    "name": "Berkunjung ke akuarium",
+    "panels": [
+      "Dua teman membeli dua tiket di depan gedung akuarium dengan ikon ikan, jangan pakai teks Jepang.",
+      "Dua teman berdiri di depan tangki kaca besar melihat lumba-lumba abu-abu berenang; sirip punggung dan moncong khas lumba-lumba jelas.",
+      "Mereka memotret lumba-lumba dalam tangki, tidak ada paus/hiu/penyu.",
+      "Keduanya keluar akuarium sambil membawa brosur biru."
+    ],
+    "visualQuestion": "Hewan apa yang mereka lihat dalam tangki?"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "L1",
+    "file": "audio/q61.mp3",
+    "task": "point",
+    "script": "女の人：今日は肉ではなく魚を買いました。夕ご飯はその魚を焼こうと思います。",
+    "speakerNotes": "Perempuan dewasa, intonasi natural; tekankan kontras 肉ではなく魚."
+  },
+  {
+    "id": "L2",
+    "file": "audio/q62.mp3",
+    "task": "point",
+    "script": "男の人：授業は十時からですが、教室には九時四十五分までに来てください。",
+    "speakerNotes": "Laki-laki dewasa, angka jam diucapkan sangat jelas."
+  },
+  {
+    "id": "L3",
+    "file": "audio/q63.mp3",
+    "task": "task",
+    "script": "女の人：郵便局へは、この道をまっすぐ行ってください。二つ目の信号を左に曲がると、右にあります。",
+    "speakerNotes": "Perempuan dewasa; jeda sesudah まっすぐ行ってください。"
+  },
+  {
+    "id": "L4",
+    "file": "audio/q64.mp3",
+    "task": "point",
+    "script": "女の人：駅の前の花屋で待っています。\n男の人：花屋はもう閉まっていますよ。となりの本屋の前にしましょう。\n女の人：わかりました。",
+    "speakerNotes": "Dua penutur berbeda; jeda antarpenutur 600 ms; jangan bacakan label pembicara."
+  },
+  {
+    "id": "L5",
+    "file": "audio/q65.mp3",
+    "task": "point",
+    "script": "男の人：会議は水曜日の予定でしたが、その日は会社が休みになりました。だから木曜日に変更します。",
+    "speakerNotes": "Laki-laki dewasa; beri intonasi kontras pada 水曜日 dan 木曜日."
+  },
+  {
+    "id": "L6",
+    "file": "audio/q66.mp3",
+    "task": "quick_response",
+    "script": "先生：レポートはもう出しましたか。",
+    "speakerNotes": "Suara guru, satu pertanyaan, akhir kalimat naik natural."
+  },
+  {
+    "id": "L7",
+    "file": "audio/q67.mp3",
+    "task": "quick_response",
+    "script": "女の人：すみません、この席、使っていますか。",
+    "speakerNotes": "Perempuan dewasa, sopan, jeda kecil setelah すみません。"
+  },
+  {
+    "id": "L8",
+    "file": "audio/q68.mp3",
+    "task": "point",
+    "script": "女の人：旅行に何を持っていきますか。\n男の人：雨が降るかもしれないので、かさを持っていきます。上着はホテルにあります。",
+    "speakerNotes": "Dua penutur; akhir alasan diucapkan jelas."
+  },
+  {
+    "id": "L9",
+    "file": "audio/q69.mp3",
+    "task": "task",
+    "script": "駅員：まず券売機で切符を買ってください。それから、三番線の電車に乗ってください。",
+    "speakerNotes": "Petugas stasiun, instruksi urutan jelas: まず → それから."
+  },
+  {
+    "id": "L10",
+    "file": "audio/q70.mp3",
+    "task": "task",
+    "script": "女の人：来週の料理教室に出たいけど、土曜日は仕事なの。\n男の人：日曜日の午前にもクラスがあるそうだよ。\n女の人：じゃあ、そのクラスに申し込むね。",
+    "speakerNotes": "Dua penutur; beri jeda pergantian suara; kata 日曜日の午前 harus jelas."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "M1",
+    "prompt": "いすの右に、大きな緑のかばんがあります。",
+    "images": {
+      "A": "Tas hijau besar di kiri kursi.",
+      "B": "Tas hijau besar di kanan kursi.",
+      "C": "Tas merah besar di kanan kursi.",
+      "D": "Tas hijau kecil di kanan kursi."
+    }
+  },
+  {
+    "id": "M2",
+    "prompt": "女の子は黄色いぼうしをかぶって、犬と走っています。",
+    "images": {
+      "A": "Anak perempuan bertopi merah berlari bersama anjing.",
+      "B": "Anak laki-laki bertopi kuning berlari bersama anjing.",
+      "C": "Anak perempuan bertopi kuning berjalan bersama anjing.",
+      "D": "Anak perempuan bertopi kuning berlari bersama anjing."
+    }
+  },
+  {
+    "id": "M3",
+    "prompt": "たなのいちばん上に、青いはこが三つならんでいます。",
+    "images": {
+      "A": "Rak dengan dua kotak biru di bagian paling atas.",
+      "B": "Rak dengan tiga kotak merah di bagian paling atas.",
+      "C": "Rak dengan tiga kotak biru sejajar di bagian paling atas.",
+      "D": "Rak dengan tiga kotak biru sejajar di bagian paling bawah."
+    }
+  },
+  {
+    "id": "M4",
+    "prompt": "時計は三時半をさしています。",
+    "images": {
+      "A": "Jam analog menunjukkan 3:30, jarum menit ke 6, jarum jam setengah di antara 3 dan 4.",
+      "B": "Jam analog menunjukkan 3:00, jarum menit ke 12, jarum jam tepat 3.",
+      "C": "Jam analog menunjukkan 2:30, jarum menit ke 6, jarum jam antara 2 dan 3.",
+      "D": "Jam analog menunjukkan 6:15, jarum menit ke 3, jarum jam sedikit lewat 6."
+    }
+  },
+  {
+    "id": "M5",
+    "prompt": "男の人が窓を閉めています。外では雪が降っています。",
+    "images": {
+      "A": "Laki-laki membuka jendela, di luar turun salju.",
+      "B": "Laki-laki menutup jendela, di luar turun salju.",
+      "C": "Perempuan menutup jendela, di luar turun salju.",
+      "D": "Laki-laki menutup jendela, di luar turun hujan."
+    }
+  }
+]

@@ -1,0 +1,225 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" width="960" height="300">
+
+  <g transform="translate(0 0)">
+    <rect x="6" y="6" width="228" height="288" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+    <text x="20" y="32" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#94A3B8">1</text>
+    <line x1="14" y1="252" x2="226" y2="252" stroke="#E2E8F0" stroke-width="2.5" stroke-linecap="round"/>
+      <rect x="14" y="238" width="212" height="8" fill="#FDE68A" stroke="#0F172A" stroke-width="1.5"/>
+            
+  <g transform="translate(178 48)" stroke="#0F172A" stroke-width="2">
+    <rect x="-24" y="-18" width="48" height="34" rx="5" fill="#DBEAFE"/>
+    <rect x="-14" y="-11" width="28" height="16" rx="3" fill="#FFFFFF"/>
+    <rect x="-9" y="-7" width="8" height="7" rx="1" fill="#2563EB"/>
+    <rect x="1" y="-7" width="8" height="7" rx="1" fill="#2563EB"/>
+    <circle cx="-8" cy="8" r="2.4" fill="#475569" stroke="none"/>
+    <circle cx="8" cy="8" r="2.4" fill="#475569" stroke="none"/>
+  </g>
+      <g stroke="#0F172A" stroke-width="2.5" fill="#C69C6D">
+        <rect x="118" y="196" width="96" height="10" rx="3"/>
+        <rect x="124" y="206" width="8" height="44" fill="#A97B4F"/>
+        <rect x="200" y="206" width="8" height="44" fill="#A97B4F"/>
+        <rect x="118" y="160" width="96" height="8" rx="3"/>
+        <rect x="124" y="160" width="7" height="38" fill="#A97B4F"/>
+      </g>
+      <path d="M 132 196 q 10 -18 22 -2 q 8 12 22 2 q 14 -10 24 2 l 0 6 l -70 0 z" fill="#FECACA" stroke="#DC2626" stroke-width="2.5"/>
+      
+  <g transform="translate(62 250) scale(1)">
+    <g stroke="#0F172A" stroke-width="9" stroke-linecap="round" fill="none">
+      <line x1="-9" y1="-64" x2="-11" y2="-8" stroke="#334155"/>
+      <line x1="9" y1="-64" x2="11" y2="-8" stroke="#334155"/>
+    </g>
+    <g stroke="#0F172A" stroke-width="2" stroke-linecap="round">
+      <line x1="-18" y1="-6" x2="-7" y2="-6" stroke="#334155" stroke-width="8"/>
+      <line x1="7" y1="-6" x2="18" y2="-6" stroke="#334155" stroke-width="8"/>
+    </g>
+    <g stroke="#CBD5E1" stroke-width="9" stroke-linecap="round" fill="none">
+      <line x1="-18" y1="-110" x2="-24" y2="-70"/>
+      <line x1="18" y1="-110" x2="24" y2="-70"/>
+    </g>
+    <circle cx="-24" cy="-70" r="5" fill="#F3C9A8" stroke="#0F172A" stroke-width="1.5"/>
+    <circle cx="24" cy="-70" r="5" fill="#F3C9A8" stroke="#0F172A" stroke-width="1.5"/>
+    <rect x="-20" y="-116" width="40" height="54" rx="14" fill="#CBD5E1" stroke="#0F172A" stroke-width="2"/>
+    
+    <circle cx="0" cy="-132" r="18" fill="#F3C9A8" stroke="#0F172A" stroke-width="2"/>
+    <path d="M -18.5 -132 a 18.5 18.5 0 0 1 37 0 z" fill="#1F2937"/>
+    
+    <circle cx="-6" cy="-130" r="2" fill="#0F172A"/>
+    <circle cx="6" cy="-130" r="2" fill="#0F172A"/>
+    <path d="M -5 -125 q 5 5 10 0" fill="none" stroke="#0F172A" stroke-width="1.8" stroke-linecap="round"/>
+  </g>
+  </g>
+  <g transform="translate(240 0)">
+    <rect x="6" y="6" width="228" height="288" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+    <text x="20" y="32" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#94A3B8">2</text>
+    <line x1="14" y1="252" x2="226" y2="252" stroke="#E2E8F0" stroke-width="2.5" stroke-linecap="round"/>
+      <rect x="14" y="238" width="212" height="8" fill="#FDE68A" stroke="#0F172A" stroke-width="1.5"/>
+      <g stroke="#0F172A" stroke-width="2.5" fill="#C69C6D">
+        <rect x="122" y="196" width="94" height="10" rx="3"/>
+        <rect x="128" y="206" width="8" height="44" fill="#A97B4F"/>
+        <rect x="202" y="206" width="8" height="44" fill="#A97B4F"/>
+      </g>
+      
+  <g transform="translate(72 250) scale(1)">
+    <g stroke="#0F172A" stroke-width="9" stroke-linecap="round" fill="none">
+      <line x1="-9" y1="-64" x2="-11" y2="-8" stroke="#334155"/>
+      <line x1="9" y1="-64" x2="11" y2="-8" stroke="#334155"/>
+    </g>
+    <g stroke="#0F172A" stroke-width="2" stroke-linecap="round">
+      <line x1="-18" y1="-6" x2="-7" y2="-6" stroke="#334155" stroke-width="8"/>
+      <line x1="7" y1="-6" x2="18" y2="-6" stroke="#334155" stroke-width="8"/>
+    </g>
+    <g stroke="#CBD5E1" stroke-width="9" stroke-linecap="round" fill="none">
+      <line x1="-18" y1="-110" x2="-24" y2="-70"/>
+      <line x1="18" y1="-110" x2="44" y2="-96"/>
+    </g>
+    <circle cx="-24" cy="-70" r="5" fill="#F3C9A8" stroke="#0F172A" stroke-width="1.5"/>
+    <circle cx="44" cy="-96" r="5" fill="#F3C9A8" stroke="#0F172A" stroke-width="1.5"/>
+    <rect x="-20" y="-116" width="40" height="54" rx="14" fill="#CBD5E1" stroke="#0F172A" stroke-width="2"/>
+    
+    <circle cx="0" cy="-132" r="18" fill="#F3C9A8" stroke="#0F172A" stroke-width="2"/>
+    <path d="M -18.5 -132 a 18.5 18.5 0 0 1 37 0 z" fill="#1F2937"/>
+    
+    <circle cx="-6" cy="-130" r="2" fill="#0F172A"/>
+    <circle cx="6" cy="-130" r="2" fill="#0F172A"/>
+    <path d="M -5 -125 q 5 5 10 0" fill="none" stroke="#0F172A" stroke-width="1.8" stroke-linecap="round"/>
+  </g>
+      <path d="M 112 142 q 10 -16 20 -2 q 6 10 16 0 q 10 -8 16 2 l 0 8 l -52 0 z" fill="#FECACA" stroke="#DC2626" stroke-width="2.5"/>
+  </g>
+  <g transform="translate(480 0)">
+    <rect x="6" y="6" width="228" height="288" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+    <text x="20" y="32" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#94A3B8">3</text>
+    <line x1="14" y1="252" x2="226" y2="252" stroke="#E2E8F0" stroke-width="2.5" stroke-linecap="round"/>
+      
+  <g transform="translate(178 74)" stroke="#0F172A" stroke-width="2">
+    <rect x="-24" y="-18" width="48" height="34" rx="5" fill="#DBEAFE"/>
+    <rect x="-14" y="-11" width="28" height="16" rx="3" fill="#FFFFFF"/>
+    <rect x="-9" y="-7" width="8" height="7" rx="1" fill="#2563EB"/>
+    <rect x="1" y="-7" width="8" height="7" rx="1" fill="#2563EB"/>
+    <circle cx="-8" cy="8" r="2.4" fill="#475569" stroke="none"/>
+    <circle cx="8" cy="8" r="2.4" fill="#475569" stroke="none"/>
+  </g>
+      <g stroke="#0F172A" stroke-width="2.5">
+        <rect x="120" y="180" width="108" height="14" rx="4" fill="#C69C6D"/>
+        <rect x="128" y="194" width="96" height="58" fill="#E7D3BE"/>
+      </g>
+      
+  <g transform="translate(168 250) scale(1)">
+    <g stroke="#0F172A" stroke-width="9" stroke-linecap="round" fill="none">
+      <line x1="-9" y1="-64" x2="-11" y2="-8" stroke="#334155"/>
+      <line x1="9" y1="-64" x2="11" y2="-8" stroke="#334155"/>
+    </g>
+    <g stroke="#0F172A" stroke-width="2" stroke-linecap="round">
+      <line x1="-18" y1="-6" x2="-7" y2="-6" stroke="#334155" stroke-width="8"/>
+      <line x1="7" y1="-6" x2="18" y2="-6" stroke="#334155" stroke-width="8"/>
+    </g>
+    <g stroke="#BFDBFE" stroke-width="9" stroke-linecap="round" fill="none">
+      <line x1="-18" y1="-110" x2="-22" y2="-92"/>
+      <line x1="18" y1="-110" x2="6" y2="-92"/>
+    </g>
+    <circle cx="-22" cy="-92" r="5" fill="#F3C9A8" stroke="#0F172A" stroke-width="1.5"/>
+    <circle cx="6" cy="-92" r="5" fill="#F3C9A8" stroke="#0F172A" stroke-width="1.5"/>
+    <rect x="-20" y="-116" width="40" height="54" rx="14" fill="#BFDBFE" stroke="#0F172A" stroke-width="2"/>
+    
+    <circle cx="0" cy="-132" r="18" fill="#F3C9A8" stroke="#0F172A" stroke-width="2"/>
+    <path d="M -18.5 -132 a 18.5 18.5 0 0 1 37 0 z" fill="#1F2937"/>
+    
+    <circle cx="-6" cy="-130" r="2" fill="#0F172A"/>
+    <circle cx="6" cy="-130" r="2" fill="#0F172A"/>
+    <path d="M -5 -125 q 5 5 10 0" fill="none" stroke="#0F172A" stroke-width="1.8" stroke-linecap="round"/>
+  </g>
+      
+  <g transform="translate(62 250) scale(1)">
+    <g stroke="#0F172A" stroke-width="9" stroke-linecap="round" fill="none">
+      <line x1="-9" y1="-64" x2="-11" y2="-8" stroke="#334155"/>
+      <line x1="9" y1="-64" x2="11" y2="-8" stroke="#334155"/>
+    </g>
+    <g stroke="#0F172A" stroke-width="2" stroke-linecap="round">
+      <line x1="-18" y1="-6" x2="-7" y2="-6" stroke="#334155" stroke-width="8"/>
+      <line x1="7" y1="-6" x2="18" y2="-6" stroke="#334155" stroke-width="8"/>
+    </g>
+    <g stroke="#CBD5E1" stroke-width="9" stroke-linecap="round" fill="none">
+      <line x1="-18" y1="-110" x2="-24" y2="-70"/>
+      <line x1="18" y1="-110" x2="46" y2="-96"/>
+    </g>
+    <circle cx="-24" cy="-70" r="5" fill="#F3C9A8" stroke="#0F172A" stroke-width="1.5"/>
+    <circle cx="46" cy="-96" r="5" fill="#F3C9A8" stroke="#0F172A" stroke-width="1.5"/>
+    <rect x="-20" y="-116" width="40" height="54" rx="14" fill="#CBD5E1" stroke="#0F172A" stroke-width="2"/>
+    
+    <circle cx="0" cy="-132" r="18" fill="#F3C9A8" stroke="#0F172A" stroke-width="2"/>
+    <path d="M -18.5 -132 a 18.5 18.5 0 0 1 37 0 z" fill="#1F2937"/>
+    
+    <circle cx="-6" cy="-130" r="2" fill="#0F172A"/>
+    <circle cx="6" cy="-130" r="2" fill="#0F172A"/>
+    <path d="M -5 -125 q 5 5 10 0" fill="none" stroke="#0F172A" stroke-width="1.8" stroke-linecap="round"/>
+  </g>
+      <path d="M 106 138 q 10 -16 20 -2 q 6 10 16 0 q 10 -8 16 2 l 0 8 l -52 0 z" fill="#FECACA" stroke="#DC2626" stroke-width="2.5"/>
+  </g>
+  <g transform="translate(720 0)">
+    <rect x="6" y="6" width="228" height="288" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+    <text x="20" y="32" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700" fill="#94A3B8">4</text>
+    <line x1="14" y1="252" x2="226" y2="252" stroke="#E2E8F0" stroke-width="2.5" stroke-linecap="round"/>
+      <g stroke="#0F172A" stroke-width="2.5">
+            <rect x="96" y="180" width="124" height="14" rx="4" fill="#C69C6D"/>
+            <rect x="104" y="194" width="108" height="60" fill="#E7D3BE"/>
+            <line x1="104" y1="216" x2="212" y2="216"/>
+          </g>
+          
+  <g transform="translate(176 250) scale(1)">
+    <g stroke="#0F172A" stroke-width="9" stroke-linecap="round" fill="none">
+      <line x1="-9" y1="-64" x2="-11" y2="-8" stroke="#334155"/>
+      <line x1="9" y1="-64" x2="11" y2="-8" stroke="#334155"/>
+    </g>
+    <g stroke="#0F172A" stroke-width="2" stroke-linecap="round">
+      <line x1="-18" y1="-6" x2="-7" y2="-6" stroke="#334155" stroke-width="8"/>
+      <line x1="7" y1="-6" x2="18" y2="-6" stroke="#334155" stroke-width="8"/>
+    </g>
+    <g stroke="#BFDBFE" stroke-width="9" stroke-linecap="round" fill="none">
+      <line x1="-18" y1="-110" x2="12" y2="-84"/>
+      <line x1="18" y1="-110" x2="26" y2="-100"/>
+    </g>
+    <circle cx="12" cy="-84" r="5" fill="#F3C9A8" stroke="#0F172A" stroke-width="1.5"/>
+    <circle cx="26" cy="-100" r="5" fill="#F3C9A8" stroke="#0F172A" stroke-width="1.5"/>
+    <rect x="-20" y="-116" width="40" height="54" rx="14" fill="#BFDBFE" stroke="#0F172A" stroke-width="2"/>
+    
+    <circle cx="0" cy="-132" r="18" fill="#F3C9A8" stroke="#0F172A" stroke-width="2"/>
+    <path d="M -18.5 -132 a 18.5 18.5 0 0 1 37 0 z" fill="#1F2937"/>
+    
+    <circle cx="-6" cy="-130" r="2" fill="#0F172A"/>
+    <circle cx="6" cy="-130" r="2" fill="#0F172A"/>
+    <path d="M -5 -125 q 5 5 10 0" fill="none" stroke="#0F172A" stroke-width="1.8" stroke-linecap="round"/>
+  </g>
+          <g stroke="#0F172A" stroke-width="2">
+            <rect x="128" y="150" width="66" height="30" rx="4" fill="#F1E4CF"/>
+            <path d="M 134 150 q 10 -14 20 -2 q 8 10 16 -2 q 10 -8 18 2 l 0 8 l -54 0 z" fill="#FECACA" stroke="#DC2626" stroke-width="2.5"/>
+          </g>
+          
+  <g transform="translate(52 250) scale(1)">
+    <g stroke="#0F172A" stroke-width="9" stroke-linecap="round" fill="none">
+      <line x1="-9" y1="-64" x2="-11" y2="-8" stroke="#334155"/>
+      <line x1="9" y1="-64" x2="11" y2="-8" stroke="#334155"/>
+    </g>
+    <g stroke="#0F172A" stroke-width="2" stroke-linecap="round">
+      <line x1="-18" y1="-6" x2="-7" y2="-6" stroke="#334155" stroke-width="8"/>
+      <line x1="7" y1="-6" x2="18" y2="-6" stroke="#334155" stroke-width="8"/>
+    </g>
+    <g stroke="#CBD5E1" stroke-width="9" stroke-linecap="round" fill="none">
+      <line x1="-18" y1="-110" x2="-24" y2="-70"/>
+      <line x1="18" y1="-110" x2="34" y2="-80"/>
+    </g>
+    <circle cx="-24" cy="-70" r="5" fill="#F3C9A8" stroke="#0F172A" stroke-width="1.5"/>
+    <circle cx="34" cy="-80" r="5" fill="#F3C9A8" stroke="#0F172A" stroke-width="1.5"/>
+    <rect x="-20" y="-116" width="40" height="54" rx="14" fill="#CBD5E1" stroke="#0F172A" stroke-width="2"/>
+    
+    <circle cx="0" cy="-132" r="18" fill="#F3C9A8" stroke="#0F172A" stroke-width="2"/>
+    <path d="M -18.5 -132 a 18.5 18.5 0 0 1 37 0 z" fill="#1F2937"/>
+    
+    <circle cx="-6" cy="-130" r="2" fill="#0F172A"/>
+    <circle cx="6" cy="-130" r="2" fill="#0F172A"/>
+    <path d="M -5 -125 q 5 5 10 0" fill="none" stroke="#0F172A" stroke-width="1.8" stroke-linecap="round"/>
+  </g>
+          <g stroke="#0F172A" stroke-width="2">
+            <rect x="96" y="150" width="26" height="30" rx="3" fill="#FFFFFF"/>
+            <path d="M 100 156 l 18 0 M 100 162 l 18 0 M 100 168 l 12 0" stroke="#94A3B8" stroke-width="1.5"/>
+          </g>
+  </g>
+</svg>
