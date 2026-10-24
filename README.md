@@ -14,14 +14,12 @@ mendengarkan dengan audio bahasa Jepang. Antarmuka berbahasa Indonesia, isi soal
 | Source code lengkap + build | ✅ `dist/` dihasilkan oleh `npm run build` |
 | 70 soal, 5 bacaan, 25 SVG, 10 MP3 | ✅ tervalidasi otomatis |
 | Tests (28) | ✅ lulus |
-| Deploy GitHub Pages | ⏳ belum live — lihat [Deployment](#deployment) |
+| Deploy GitHub Pages | ✅ live dan diverifikasi |
 | Deploy Vercel | ⏳ belum dikonfigurasi (opsi kedua) |
 
-Repo target: <https://github.com/fayyadh678/SimulasiN4ver1> · URL publik target:
-<https://fayyadh678.github.io/SimulasiN4ver1/>.
-
-URL tersebut adalah **target**, bukan klaim sudah live. Jalankan langkah deployment di bawah lalu
-verifikasi sendiri.
+Repo: <https://github.com/fayyadh678/SimulasiN4ver1>
+URL publik: <https://fayyadh678.github.io/SimulasiN4ver1/> — sudah dicek langsung (index, audio, SVG,
+dan soal cocokkan gambar merespons 200 dan audio berdurasi 8,1 detik dapat diputar).
 
 ## Menjalankan lokal
 
@@ -119,6 +117,11 @@ tidak butuh API key saat runtime.
 3. Workflow `.github/workflows/deploy.yml` menjalankan `npm ci`, `npm test -- --run`,
    `GITHUB_PAGES=true npm run build`, lalu mengunggah `dist`.
 4. Setelah job hijau, situs tersedia di `https://fayyadh678.github.io/SimulasiN4ver1/`.
+
+Status saat ini: Pages sudah diaktifkan dengan `build_type: workflow` dan run
+[40080161611](https://github.com/fayyadh678/SimulasiN4ver1/actions/runs/40080161611) berakhir sukses.
+Jika run pertama gagal pada langkah *Configure Pages* (Pages belum aktif), aktifkan Pages lalu
+re-run job tersebut — tidak perlu mengubah kode.
 
 `vite.config.ts` memakai `base: '/SimulasiN4ver1/'` hanya ketika `GITHUB_PAGES=true`; semua aset
 diselesaikan lewat `import.meta.env.BASE_URL` sehingga audio/gambar tidak 404 di project page.
